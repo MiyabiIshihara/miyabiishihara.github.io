@@ -11,4 +11,4 @@ I am a PhD student in Statistics at UC Berkeley, and a fellow in the [Global Pol
 
 Outside of research, I enjoy drawing and finding new music in different languages.
 
-Email: miyabi_ishihara at berkeley dot edu  Twitter: @MiyabiIshihara
+Email: miyabi_ishihara at berkeley dot edu  
