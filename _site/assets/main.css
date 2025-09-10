@@ -646,4 +646,13 @@ table td {
   color: #099;
 }
 
+.site-title {
+  font-size: 0;
+}
+
+.site-title::after {
+  content: "Home";
+  font-size: 1.2rem;
+}
+
 /*# sourceMappingURL=main.css.map */

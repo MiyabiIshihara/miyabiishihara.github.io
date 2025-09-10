@@ -3,3 +3,12 @@
 ---
 
 @import "minima";
+
+.site-title {
+  font-size: 0;
+}
+
+.site-title::after {
+  content: "Home";
+  font-size: 1.2rem;
+}
