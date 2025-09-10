@@ -1,7 +1,8 @@
 ---
 layout: page
 title: JP
-permalink: /about/
+permalink: /jp/
 ---
 
+石原みやび  
 coming soon 

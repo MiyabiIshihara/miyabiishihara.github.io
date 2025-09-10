@@ -12,7 +12,7 @@ Miyabi Ishihara
 Ph.D., Statistics, UC Berkeley, 2023  
 miyabi.ishihara@gmail.com  
 
-I'm currently looking for new opportunities involving applied statistics research, but I'm also open to other areas. I'm interested in engaging in thorny societal topics where the problem is motivated from the bottom up and works toward the interests and safety of vulnerable people experiencing the problem. I work by learning about the domain topic and probe until I can identify whether it is a data problem, and if so, how statistical methods can be serviceable. 
+I'm currently looking for new opportunities involving applied statistics work, but I'm also open to other areas. I'm particularly interested in engaging in thorny societal topics where the problem is motivated from the bottom up and works toward the interests of vulnerable people experiencing the problem. I work by learning about the domain topic and probe until I can identify whether it is a data problem, and if so, how statistical methods can be serviceable. 
 
 My recent project studied the effect of climate risk by estimating the extent to which current housing markets capitalize on climate and environmental risks, using regression-based causal inference and machine learning methods. Other applied statistics projects include identifying extreme climate events based on spatiotemporal weather data; designing health questionnaires that are short but still maintain reasonable diagnostic accuracy for use as screening tools, based on survey data.  
 
@@ -27,7 +27,7 @@ I also spent two years teaching statistics at the university level and am broadl
 
 
 
-### Applied statistics projects
+### Highlighted applied statistics projects
 <!--  [Google Scholar](https://scholar.google.com/citations?user=zz73hA4AAAAJ&hl=ja) -->
 
 *Climate*  
