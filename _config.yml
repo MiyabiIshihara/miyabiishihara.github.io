@@ -32,8 +32,8 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.html
+header_pages:
+ - about.html
 
 # Build settings
 theme: minima
@@ -43,6 +43,6 @@ minima:
   show_posts_on_home: false
 
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+# plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
